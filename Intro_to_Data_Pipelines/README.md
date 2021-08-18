@@ -10,4 +10,4 @@ You can find the colaboratory notebook [here](https://colab.research.google.com/
 
 YouTube
 ---
-This workshop has not been uploaded to YouTube yet. Will be updated with the link to the video when the video is uploaded.
+https://youtu.be/M629NboyEEw
