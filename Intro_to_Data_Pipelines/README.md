@@ -11,11 +11,11 @@ This workshop will introduce the motivation for data pipelines in machine learni
 ---
 The presentation can be found [here](https://docs.google.com/presentation/d/1zbNeUox4vJvd4RVgJ1tV6FL30_d-u1ijpOrksmhwGx4/edit?usp=sharing).
 
-📝Colaboratory Notebook
+📝 Colaboratory Notebook
 ---
 You can find the colaboratory notebook [here](https://colab.research.google.com/drive/1YwPYok0XiQD4RaJ5DDkUBeLCjHEpLjX8?usp=sharing).<br>
 Alternatively, the Jupyter Notebook can be found at `Intro_to_Data_Pipelines.ipynb`.
 
-🎬Recorded Workshop Video
+🎬 Recorded Workshop Video
 ---
 A recording of the workshop has been uploaded to YouTube [here](https://youtu.be/M629NboyEEw).
