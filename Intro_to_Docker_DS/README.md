@@ -12,13 +12,17 @@ In order to follow along with the hands-on examples, please make sure to install
 ---
 The presentation can be found [here](https://docs.google.com/presentation/d/1PUXhTDAMCrf9xo2WXzEAD5cR70azyFNH-1SE1dYmmvQ/edit?usp=sharing).
 
+📝 Workshop Resources
+---
+The files for the first and third examples can be found in `1-docker_hello_world/` and `3-deploy_production_model/`, respectively. The second example did not contain any files.
 
-🎬Recorded Workshop Video
+🎬 Recorded Workshop Video
 ---
 A recording of the workshop has been uploaded to YouTube [here](https://youtu.be/CNmFurBXu84).
 
 🔮 Extra Resources
 ---
+- Check out this awesome [blog post by DAGsHUB](https://dagshub.com/blog/setting-up-data-science-workspace-with-docker/).
 - Check out the [Getting Started](https://docs.docker.com/get-started/) page on the Docker documentation.
 - Work through the [Official Docker Python Guide](https://docs.docker.com/language/python/).
 - Learn about [Docker Compose](https://docs.docker.com/get-started/08_using_compose/).
