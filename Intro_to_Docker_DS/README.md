@@ -1,6 +1,6 @@
 # Intro to Docker for Data Science
 
-![banner](.doc_assets\intro_to_docker_banner.png)
+![banner](/.doc_assets/intro_to_docker_banner.png)
 
 ✨Summary
 ---
@@ -10,13 +10,15 @@ In order to follow along with the hands-on examples, please make sure to install
 
 🅿 Slide Deck
 ---
-The presentation can be found [here](https://docs.google.com/presentation/d/1zbNeUox4vJvd4RVgJ1tV6FL30_d-u1ijpOrksmhwGx4/edit?usp=sharing).
+The presentation can be found [here](https://docs.google.com/presentation/d/1PUXhTDAMCrf9xo2WXzEAD5cR70azyFNH-1SE1dYmmvQ/edit?usp=sharing).
 
-📝Colaboratory Notebook
----
-You can find the colaboratory notebook [here](https://colab.research.google.com/drive/1YwPYok0XiQD4RaJ5DDkUBeLCjHEpLjX8?usp=sharing).<br>
-Alternatively, the Jupyter Notebook can be found at `Intro_to_Data_Pipelines.ipynb`.
 
 🎬Recorded Workshop Video
 ---
-A recording of the workshop has been uploaded to YouTube [here](https://youtu.be/M629NboyEEw).
+A recording of the workshop has been uploaded to YouTube [here](https://youtu.be/CNmFurBXu84).
+
+🔮 Extra Resources
+---
+- Check out the [Getting Started](https://docs.docker.com/get-started/) page on the Docker documentation.
+- Work through the [Official Docker Python Guide](https://docs.docker.com/language/python/).
+- Learn about [Docker Compose](https://docs.docker.com/get-started/08_using_compose/).
