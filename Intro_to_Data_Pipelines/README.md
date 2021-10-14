@@ -1,7 +1,7 @@
 # Intro to Data Pipelines in TensorFlow and Keras
 
 
-![banner](.doc_assets\intro_to_pipelines_banner.png)
+![banner](/.doc_assets/intro_to_pipelines_banner.png)
 
 
 ✨Summary
